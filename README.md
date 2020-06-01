@@ -46,5 +46,7 @@ The code is implemented in MATLAB 2018b. Every function uploaded in this reposit
 
 After the run, you can launch `Graphs.m` for plotting the error and the joint trajectories and `animate.m` to record a video using the Matlab Robotics' Toolbox.
 
+If you want to change some other data (e.g., the joint limits) you may need to run again the scripts `aux_qdot.m` and `aux_w.m` (see `documentation.txt` for further details). 
+
 ## Reference
 Nakamura, Y., & Hanafusa, H. (1987). Optimal redundancy control of robot manipulators. *The International Journal of Robotics Research, 6*(1), 32-42.
