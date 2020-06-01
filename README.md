@@ -3,6 +3,10 @@ Developed by: M. Sodano, F. Roscia (2019).
 
 Supervisor: prof. D. Iacoviello.
 
+Achievement: Optimal Control exam.
+
+
+
 This project is about the optimal redundancy control of robot manipulators. This topic has been tackled by means of the Pontryagin maximum principle. Since only kinematics is considered, the optimal problem is reduced to minimal value searching in a space of as many dimensions as the degrees of redundancy. The formulation is: first to convert the redundancy resolution problem to an optimal control problem, and to obtain the optimal resolution of redundancy by using the necessary conditions of Pontryagin theory. 
 
 A planar 3R robot manipulator, shown in the figure below, is considered. In the `media` folder, videos of the simulation described below are stored.
