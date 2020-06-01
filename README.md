@@ -38,5 +38,13 @@ without exploiting the presence of the redundancy. The solution can be obtained 
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/62264708/83418868-8aa3f400-a424-11ea-8a35-0f37bd0a815c.PNG" height="80"> </p>
 
+## Implementation Details
+The code is implemented in MATLAB 2018b. Every function uploaded in this repository is described in the file `documentation.txt`. To run, in `init.m`, choose:
+- a starting configuration and a velocity for the robot manipulator;
+- the weights for the secondary cost index;
+- the parameter `i`, that selects the cost index (and related weight);
+
+After the run, you can launch `Graphs.m` for plotting the error and the joint trajectories and `animate.m` to record a video using the Matlab Robotics' Toolbox.
+
 ## Reference
 Nakamura, Y., & Hanafusa, H. (1987). Optimal redundancy control of robot manipulators. *The International Journal of Robotics Research, 6*(1), 32-42.
