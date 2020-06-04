@@ -3,7 +3,7 @@ Developed by: M. Sodano, F. Roscia (2019).
 
 Supervisor: prof. D. Iacoviello.
 
-Achievement: Optimal Control exam.\
+Achievement: Optimal Control exam (partial).\
 <br>
 
 
